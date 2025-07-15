@@ -1,0 +1,5 @@
+1.python -m venv .env
+2 .env\Scripts\activate.bat
+3 make requirements.txt file outside the project folder
+4. write the necessary libraries u want to install or import
+5. in terminal pip install -r requirements.txt
